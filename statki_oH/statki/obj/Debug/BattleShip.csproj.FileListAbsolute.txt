@@ -1,0 +1,8 @@
+C:\Users\merph\OneDrive\Pulpit\statki_oH\statki\bin\Debug\BattleShip.exe.config
+C:\Users\merph\OneDrive\Pulpit\statki_oH\statki\bin\Debug\BattleShip.exe
+C:\Users\merph\OneDrive\Pulpit\statki_oH\statki\bin\Debug\BattleShip.pdb
+C:\Users\merph\OneDrive\Pulpit\statki_oH\statki\obj\Debug\BattleShip.csproj.AssemblyReference.cache
+C:\Users\merph\OneDrive\Pulpit\statki_oH\statki\obj\Debug\BattleShip.csproj.SuggestedBindingRedirects.cache
+C:\Users\merph\OneDrive\Pulpit\statki_oH\statki\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\merph\OneDrive\Pulpit\statki_oH\statki\obj\Debug\BattleShip.exe
+C:\Users\merph\OneDrive\Pulpit\statki_oH\statki\obj\Debug\BattleShip.pdb
